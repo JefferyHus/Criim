@@ -1,0 +1,18 @@
+Great!＝登録完了
+Customer registred successfully.＝お客様を登録しました。
+Full Name＝氏名
+Type＝メンバーズカードの種類
+Add more＝家族を追加する
+Warning..!＝注意…!
+
+todo:
+
+- Change QRCode by barcode (done)
+- Login to customer profile must be with phone number & a password (done)
+- Admin add products page (done)
+- Send email to the new customer with a direct link to profile page (done)
+- Fix session issues, flash messages must be cleared (done)
+
+- Settings page (I do what i want)
+- Price + Tax (done)
+- Cashier system + money drawer (escpos-php/example/receipt-with-logo.php) (done)
